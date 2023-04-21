@@ -42,12 +42,12 @@ body{
     border-right: 3px solid #372a63;
     margin-right: 20px;
     padding: 20px;
-    width: 40;
+    width: 45%;
 }
 
 .contact-details{
     padding: 20px;
-    width: 60%;
+    width: 55%;
     padding-right: 80px;
 }
 
@@ -110,8 +110,6 @@ body{
     border-radius: 50px;
     margin-bottom: 10px;
 }
-
-
 
 .education{
     padding: 20px;
